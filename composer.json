@@ -1,0 +1,32 @@
+{
+	"name": "mugar/wkhtmltopdf-windows",
+	"description": "Convert html to pdf and image format using webkit using windows binaries for 32 bit and 64 bit.",
+	"type": "library",
+	"version": "0.12.6",
+	"keywords": [
+		"pdf",
+		"thumbnail",
+		"snapshot",
+		"wkhtmltopdf",
+		"convert",
+		"binary",
+		"htmltopdf",
+		"htmltoimage"
+	],
+	"license": "LGPL-3.0-or-later",
+	"homepage": "http://wkhtmltopdf.org/",
+	"authors": [
+		{
+			"name": "Clovis Muneza",
+			"email": "mugaro234@gmail.com",
+			"homepage": "http://clovismuneza.com"
+		}
+	],
+	"bin": [
+		"bin/32 bit/wkhtmltopdf.exe",
+		"bin/32 bit/wkhtmltoimage.exe",
+		"bin/64 bit/wkhtmltopdf.exe",
+		"bin/64 bit/wkhtmltoimage.exe"
+	],
+	"require": {}
+}
