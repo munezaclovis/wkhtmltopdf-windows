@@ -1,5 +1,5 @@
 {
-	"name": "mugar/wkhtmltopdf-windows",
+	"name": "munezaclovis/wkhtmltopdf-windows",
 	"description": "Convert html to pdf and image format using webkit using windows binaries for 32 bit and 64 bit.",
 	"type": "library",
 	"version": "0.12.6",
